@@ -1,0 +1,6 @@
+{
+  "name": "ज्ञान संसार Quiz प्रतियोगिता (Gyan Sansar Quiz)",
+  "description": "नेपालको उत्कृष्ट अनलाइन Quiz प्रतियोगिता - सामान्य ज्ञान, इतिहास, भूगोल, विज्ञान, खेलकुद तथा समसामयिक विषयहरूमा Live Quiz, Leaderboard र Admin Panel।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
